@@ -1,0 +1,34 @@
+/* some style */
+
+#app {
+    background-color: lightskyblue;
+    width: 90%;
+    /* height: 100px;  */             
+    padding: 10px;
+    margin: 0 auto;
+}
+
+
+
+input {
+    padding: 5px;
+}
+
+#dest-box {
+    width: 235px;
+}
+
+button {
+    height: 28px;
+}
+
+a {
+    color: whitesmoke;
+    display: block;
+    margin-top: 20px;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
